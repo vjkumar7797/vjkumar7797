@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vjkumar7797
+- 👋 Hi, I’m ZORO alias VIJAY
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ML using Microsoft Azure
 - 💞️ I’m looking to collaborate on ML Projects/Datascience Projects
