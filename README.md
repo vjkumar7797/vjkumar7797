@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZORO alias VIJAY
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ML using Microsoft Azure
-- 💞️ I’m looking to collaborate on ML Projects/Datascience Projects
+- 🌱 I’m currently working on SQL, Excel for Data Analysis, Tableau, POWER BI for Data Visualisation
+- 💞️ I’m looking to collaborate on ML Projects/Data Analytics Projects
 - 📫 How to reach me vjkumar7797@gmail.com
 
 <!---
